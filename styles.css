@@ -6,7 +6,7 @@ html, body{
     height: 100%;
     width: 100%;
     font-family: Roboto, sans-serif;
-    background-image: url(./img/line.svg);
+    background-image: url(./Inicio/img/line.svg);
     background-size: cover;
     background-repeat:no-repeat;
     justify-content: center;
